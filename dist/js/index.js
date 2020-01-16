@@ -87,6 +87,67 @@ var quotes = [
         "quote": "\"Prefiro ver a Amazônia pegando fogo!\"",
         "author": "Vava"
     },
+    {
+        "quote": "\"Caiu o pau do Entidade.\"",
+        "author": "Luan Vitola"
+    },
+    {
+        "quote": "\"To programando com um bebê.\"",
+        "author": "Jojo"
+    },
+    {
+        "quote": "\"Nunca comi o cu do Luan porque eu quis.\"",
+        "author": "Jojo"
+    },
+    {
+        "quote": "\"Caralho, o cara é tão inseguro que se um cara tocar nele, ele tira a calça pra ganhar um beijo grego.\"",
+        "author": "Luan Vitola"
+    },
+    {
+        "quote": "\"EUA feat Irã VS Echevenagua\"",
+        "author": "Ultimate"
+    },
+    {
+        "quote": "\"Faz um corpo de delito enquanto o semên ta no teu boipucci...\"",
+        "author": "Jojo"
+    },
+    {
+        "quote": "\"Não, somos humanofóbicos!\"",
+        "author": "Ultimate"
+    },
+    {
+        "quote": "\"Luan é nosso orgulho até quando faz merda!\"",
+        "author": "Ultimate"
+    },
+    {
+        "quote": "\"Nada é impossível para Luan Vitola!\"",
+        "author": "Ultimate"
+    },
+    {
+        "quote": "\"Pra mim pessoa que o objetivo de vida é casar nem é gente... É figurante!\"",
+        "author": "Jojo"
+    }, 
+    {
+        "quote": "\"Hare curte loli?\"",
+        "author": "Jojo"
+    },
+    {
+        "quote": "\"VÃO TOMAR NO CU?\"",
+        "author": "Paulinho"
+    },
+    {
+        "quote": "\"Não existem escolhas certas, só arrependimentos!\"",
+        "author": "Jojo"
+    },
+    {
+        "quote": "\"Se você me viu na sua timeline, já sabe que é treta!\"",
+        "author": "Luan Vitola"
+    },
+    {
+        "quote": "\"A única coisa que eu tenho a dizer é alguns infinitos são maiores que outros...\"",
+        "author": "Luan Vitola"
+    },
+
 ]
 
 
