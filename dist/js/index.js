@@ -1,59 +1,59 @@
 var quotes = [
     {
         "quote": "\"Tem uma mulher aqui bastante perigosa que disse: Cada um vai ter de mim exatamente o que plantou, isso significa então que se eu plantar a vara nela, ela irá virar um travesti.\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"Sabonete liquido é ruim em qualquer situação, exceto quando você está preso!\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"Esse anime faz você ter pena do Câncer!\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"Pelo menos o frete é grátis\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"A vida é assim, numa hora tu ta falando um assunto e na outra com um travesti.\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"Olá você poderia mever uma rol.... um croquete, por favor!\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
-        "quote": "\"O Luan sempre foi um cara feedado.\"",
+        "quote": "\"O Tanuke Sensei sempre foi um cara feedado.\"",
         "author": "Ulk-Chan"
     },
     {
-        "quote": "\"O Luan é tipo um usuário de cocaina, mas sem usar cocaína.\"",
-        "author": "Vava"
+        "quote": "\"O Tanuke Sensei é tipo um usuário de cocaina, mas sem usar cocaína.\"",
+        "author": "VKV"
     },
     {
-        "quote": "\"É a palavra do Luan contra da Lady Gaga.\"",
-        "author": "Vava"
+        "quote": "\"É a palavra do Tanuke Sensei contra da Lady Gaga.\"",
+        "author": "VKV"
     },
     {
-        "quote": "\"1 em cada três pessoas são gays.\" \" * Silêncio * \" \"!RIAN SURGE GRITANDO!\"",
+        "quote": "\"1 em cada três pessoas são gays.\" \" * Silêncio * \" \"!VERGACHOV SURGE GRITANDO!\"",
         "author": "Vergachov"
     },
     {
         "quote": "\"Aqui eu posso ouvir Lady Gaga tranquilo.\" \"Aqui você está entre machos!\"",
-        "author": "Vava"
+        "author": "VKV"
     },
     {
         "quote": "\"Surra de pau mole!\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"É uma bosta mesmo!\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"Valeu toda gozada na cara!!\"",
-        "author": "Vava"
+        "author": "VKV"
     },
     {
         "quote": "\"Legaliza o canibalismo, resolve a fome no mundo!\"",
@@ -69,7 +69,7 @@ var quotes = [
     },
     {
         "quote": "\"Cartilagem é coisa de criança!\"",
-        "author": "Vava"
+        "author": "VKV"
     },
     {
         "quote": "\"Aquele goleiro pegava até AIDS!\"",
@@ -80,28 +80,28 @@ var quotes = [
         "author": "Entidade"
     },
     {
-        "quote": "\"O Luan é oniausente!\"",
-        "author": "Vava"
+        "quote": "\"O Tanuke Sensei é oniausente!\"",
+        "author": "VKV"
     },
     {
         "quote": "\"Prefiro ver a Amazônia pegando fogo!\"",
-        "author": "Vava"
+        "author": "VKV"
     },
     {
         "quote": "\"Caiu o pau do Entidade.\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"To programando com um bebê.\"",
         "author": "Jojo"
     },
     {
-        "quote": "\"Nunca comi o cu do Luan porque eu quis.\"",
+        "quote": "\"Nunca comi o cu do Tanuke Sensei porque eu quis.\"",
         "author": "Jojo"
     },
     {
         "quote": "\"Caralho, o cara é tão inseguro que se um cara tocar nele, ele tira a calça pra ganhar um beijo grego.\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"EUA feat Irã VS Echevenagua\"",
@@ -116,11 +116,11 @@ var quotes = [
         "author": "Ultimate"
     },
     {
-        "quote": "\"Luan é nosso orgulho até quando faz merda!\"",
+        "quote": "\"Tanuke Sensei é nosso orgulho até quando faz merda!\"",
         "author": "Ultimate"
     },
     {
-        "quote": "\"Nada é impossível para Luan Vitola!\"",
+        "quote": "\"Nada é impossível para Tanuke Sensei!\"",
         "author": "Ultimate"
     },
     {
@@ -141,13 +141,32 @@ var quotes = [
     },
     {
         "quote": "\"Se você me viu na sua timeline, já sabe que é treta!\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
     {
         "quote": "\"A única coisa que eu tenho a dizer é alguns infinitos são maiores que outros...\"",
-        "author": "Luan Vitola"
+        "author": "Tanuke Sensei"
     },
-
+    {
+        "quote": "\"Pode continuar arrombadinho de merda, não precisa ficar preocupado...\"",
+        "author": "Shinark"
+    },
+    {
+        "quote": "\"Semana passada quasei usei a filha de um diretor de presídio...\"",
+        "author": "Shinark"
+    },
+    {
+        "quote": "\"Tipo um teste do sofá... UI\"",
+        "author": "Vergachov"
+    },
+    {
+        "quote": "\"Depois dou aquela cagada e...\"",
+        "author": "Shinark"
+    },
+    {
+        "quote": "\"Professor? Shemale\"",
+        "author": "Shinark"
+    },
 ]
 
 
