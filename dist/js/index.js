@@ -167,6 +167,58 @@ var quotes = [
         "quote": "\"Professor? Shemale\"",
         "author": "Shinark"
     },
+    {
+        "quote": "\"Bem vindo meu amigo ao maravilhoso mundo do desemprego...\"",
+        "author": "Tanuke Sensei"
+    },
+    {
+        "quote": "\"Boatos que o DJ cacetinho vai aparecer hj a noite no discord hein...\"",
+        "author": "VKV"
+    },
+    {
+        "quote": "\"Merda mesmo é minha vida...\"",
+        "author": "Entidade"
+    },
+    {
+        "quote": "\"Vocês querem saber o que tem no saco do papai noel?\"",
+        "author": "Kouhai Kun"
+    },
+    {
+        "quote": "\"Essa conversa é pau pra tudo quanto é lado.\"",
+        "author": "Kouhai Kun"
+    },
+    {
+        "quote": "\"Aqui em Belém churrasco sem açaí é metade do prato...\"",
+        "author": "Jojo"
+    },
+    {
+        "quote": "\"Preciso de um áudio de penis do vava\"",
+        "author": "Tanuke Sensei"
+    },
+    {
+        "quote": "\"Que vontade de tomar no cu, mas já tô tomando :/\"",
+        "author": "Tanuke Sensei"
+    },
+    {
+        "quote": "\"Cadê a minha rola na tua cara?\" \"Tu é um pau no cu mesmo, tua mensagem chegou quando eu tava vendo um documentário sobre Dirty dance com o meu pai.\"",
+        "author": "Tanuke Sensei"
+    },
+    {
+        "quote": "\"Quer ser viado comigo?\"",
+        "author": "Jojo"
+    },
+    {
+        "quote": "\"Só lembrando que começou o Destroy Dick December.\"",
+        "author": "Shinark"
+    },
+    {
+        "quote": "\"Tu gosta de uma nojeira...\"",
+        "author": "Ultimate"
+    },
+    {
+        "quote": "\"Ele é lento cara, ele só vai ser rápido com a papeti do seninha...\"",
+        "author": "Tanuke Sensei"
+    },
 ]
 
 
