@@ -132,7 +132,7 @@ var quotes = [
         "author": "Jojo"
     },
     {
-        "quote": "\"VÃO TOMAR NO CU?\"",
+        "quote": "\"VÃO TOMAR NO CU\"",
         "author": "Paulinho"
     },
     {
